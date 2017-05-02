@@ -1,1 +1,1 @@
-web: ./bin/cli.js --enableServer 1 --killSignal SIGINT
+web: ./bin/cli.js --enableServer 1 --killSignal SIGINT --port $PORT
