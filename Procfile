@@ -1,0 +1,1 @@
+web: highcharts-export-server --enableServer 1
