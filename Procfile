@@ -1,1 +1,1 @@
-web: highcharts-export-server --enableServer 1
+web: start ./bin/cli.js --enableServer 1 --killSignal SIGINT
